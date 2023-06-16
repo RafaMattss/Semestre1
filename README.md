@@ -1,1 +1,2 @@
 # Semestre1
+Este trabalho irá contemplar todos os conteúdos e projetos abordados durante o primeiro semestre do curso superior de Técnologia em Análise e Desenvolvimento de Sistemas da escola SENAI Gaspar Ricardo Junior no ano de 2023 
